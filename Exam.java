@@ -7,6 +7,6 @@ class Exam
 		int a = 10;
 		int b = -5;
 		int sum = a + b;
-		System.out.println("Sum of the given numbers is = ",sum);
+		System.out.println("Sum of the given numbers is = "+sum);
 	}
 } 
