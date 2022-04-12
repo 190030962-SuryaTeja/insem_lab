@@ -1,6 +1,6 @@
 import java.util.*;
 
-class exam
+class Exam
 {
 	public static void main(String args[])
 	{
